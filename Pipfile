@@ -12,6 +12,7 @@ langchain-core = "*"
 ipython = "*"
 tavily-python = "*"
 langchain-community = "*"
+grandalf = "*"
 
 [dev-packages]
 
